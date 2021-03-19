@@ -1,4 +1,5 @@
-# -txt-
+# 根据txt中对图像标注的点，提取图像的位置并保存
+
 
 pic_json为主文件夹
 ![image](https://user-images.githubusercontent.com/72426381/111805579-1e8b7180-890c-11eb-8e47-8d00f89f8ce8.png)
